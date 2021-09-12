@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<html> 
+    <head>
+        <title>Legale Online-Casino der Schweiz</title>
+        <link rel="stylesheet" href="style.css">
+        <meta name="viewport" content="width=device-widht, inital-scale=1">
+    </head>
+    <body>
+        <div id="top">
+            <div id="logo">LOCS+</div>
+            <div id="logo-name">Legale Online-Casinos der Schweiz</div>
+            <div id="navigation">
+                <a href="#Rankings">Online Casinos</a>
+                <a href="#Review">Review</a>
+                <a href="#responsible gaming">Verantwortungsbewusstes Spielen</a>
+        </div>
+        <div id="image">
+            <img src="image1.jpg" alt="Bild Legale Online Casino der Schweiz">
+            </div>   
+        </div>
+        <div id="main">
+            <section id="Rankings">
+                <h2>Online Casinos</h1>
+        <div id="icon1">
+                    <img src="slot-machine1.png" alt="slot">
+                </div>
+                <p>Beste Legale Online Casino der Schweiz Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+                <div id="aff1">
+                    <a href="https://www.jackpots.ch/de/"><img src="jackpots-casino-bonus-ch.jpg" alt=""></a>
+                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+                </div>
+            </section>     
+            <section id="Review"></section>
+            <h2>bereicht</h2>
+            <div id="icon2">
+                <img src="writing.png" alt="">
+            </div>
+            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+            <section id="responsible gaming">
+                <h2>Verantwortungsbewusstes Spielen</h2>
+                <div id="icon3">
+                    <img src="responsibility.png" alt="">
+                </div>
+                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+            </section>
+        </div>
+        <div id="footer">
+            <p>2021 | Legale Online-Casinos der Schweiz</p>
+
+        </div>
+    </body>
+</html>
